@@ -5,8 +5,8 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import NewComponent from './components/NewComponent.vue'
+import HelloWorld from './components/HelloWorld.vue';
+import NewComponent from './components/NewComponent.vue';
 
 export default {
   name: 'App',
@@ -14,7 +14,8 @@ export default {
     HelloWorld,
     NewComponent
   }
-}
+};
+
 </script>
 
 <style>

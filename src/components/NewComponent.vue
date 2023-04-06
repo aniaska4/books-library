@@ -1,3 +1,4 @@
-<template>
-    <div> Hello world22 </div>
+<template lang="pug">
+p Hello world
+    h1 to my
 </template>
